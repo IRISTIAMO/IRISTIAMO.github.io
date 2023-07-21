@@ -4,18 +4,78 @@
   
     
     <entry>
-      <title>Iris的Memo&amp;Todo List</title>
+      <title>Iris的Memo</title>
       <link href="/2023/07/20/IRISMemo/"/>
       <url>/2023/07/20/IRISMemo/</url>
       
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="239637c22c13416331508957ae99c15f435adbe49b3448896f80bd2a6fda59e7">a31bbbe55d991f485051d14ca4b7634de7393133757bfe8c1e8d514ddc9446e78ef027c6986a69a025135ab826d4f55694ced5fb5b7accbfe370e25d54ef249f801ae5a3df24fbc216caf8c223c7433185bc79a1df2679a85e05e0f3b626b230a3470f0ec1b76ee586121543217aed28bd6096f57d8a7853346d1b08eda6d8af62f3a14f52f771214585133dc0992f957844ec9377b6e6fba43f6c59d55a2a686d151ae5f290dbdf62b9f8a64ad570b4a57c933c91dc7d35466c24a627769f2c01d068b31189a42e17e272a99544b624e65de9c9d40aa31227f871e1876f5f9a68983283b6723c55d3767b5f009952fce14ff00ac9018b43180a42335af9c98c50d6567c1b883a24bb69521f90594307be2705e7c8cbec5eb81c12a2190b3eab892160682da5901020fe262e10d92fe53b5c1e24e9df0d7b5305897a5ccf5ec540ca9f127181314017a171c8ce2a4ca625bbc0245a0456fa3d3aeb98a9b6dec3d32c1c5b38d042ed25d5ab31781b1757c948856dfa156cec7ac93ba197261923b74827914d22f41d2053294ed9efd615234c2c1f3ef4f68b5c15e2c0aada6cbfec05d74677a9a5bc36a440f11eb30d86fae8f0c5a46119a44f3d8badbafb48ba523ddcd7c9334cf6aa1d93c02578f7e743a6e4bacbac3a541f86a617c04d6604</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="070297cbfd95f8fdf5a5675697e2ba8162b084135d9c4579f5e373b18cf38ead">a31bbbe55d991f485051d14ca4b7634de7393133757bfe8c1e8d514ddc9446e78ef027c6986a69a025135ab826d4f55694ced5fb5b7accbfe370e25d54ef249f801ae5a3df24fbc216caf8c223c7433185bc79a1df2679a85e05e0f3b626b230a3470f0ec1b76ee586121543217aed28bd6096f57d8a7853346d1b08eda6d8af62f3a14f52f771214585133dc0992f957844ec9377b6e6fba43f6c59d55a2a686d151ae5f290dbdf62b9f8a64ad570b480eb2e20be7fa404de06d55e431d5cc9e9a25df4c4a41dd8a199a6948618a9bf8d6865a0547bc4dd79d179e218749429e611d76415f622f6ac8e1774e9ce2fae689b13a8aab26e0885d4324edb3be183cab5d7e732ef2d6fad747b392dd8cac2ed3fd3feeb96e722a4e76526305870ef3e34a9276e4b49cc488f6ed5278554ffbee91b2238a63dab38d9c1eaf0d6ae56</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
       <categories>
           
           <category> 效率 </category>
           
+          <category> Memo </category>
+          
           <category> Iris </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 效率提升 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Iris的Todo List</title>
+      <link href="/2023/07/20/IrisTodo/"/>
+      <url>/2023/07/20/IrisTodo/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="92851129076d7a42d6c987007204408944bf0d2a22a4484252766133e8e252fa">a31bbbe55d991f485051d14ca4b7634de7393133757bfe8c1e8d514ddc9446e707e4889ff292274db64c2bf763785cebea7df4cba3af628941a03251e0130cacf9667e5a40205a1fee12803111b52fa405f1a18f27e7ac12a8bed2a9655a67cb516f666363df0ba6f9d18de473dc10abaa2f6f8944ea21736a73a942ef9cc259a35548b403987a77f871c520d45aab2c71f0631ef196013c202390bcde2a943467a953c530fa21962551bfea0e954fc2a97a3b401a0fbc985067b75d05f0cfc6</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 效率 </category>
+          
+          <category> Todo List </category>
+          
+          <category> Iris </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 效率提升 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Zek的Todo List</title>
+      <link href="/2023/07/20/ZekTodo/"/>
+      <url>/2023/07/20/ZekTodo/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="d24dea1313270ebc0c61488bd5ca5fb58f2aa6fad4ad0ccae90680b878534f26">20259fb41cd707e6ab48919054cf18390c3953f5a53622410aa223509c4597681ec6dd7e5f0e7c150030d129a8b68d59432fa1b32a8855360334c04c4af3efd286748916499dc7fb080b2f1a7a0f3e02ea8c0ed512863e7d3ea8abd4d26b2cb4a2c77827ba3b43dcb7c343191c22f81c510982e22a6f8d5b06720c5ab7b251c8d489972c01f934b0b70689a7b2192ad24695a1476aac3e4c70a7c8f10e6e9750c06870757377e69040f4d9e9ec5d5a9c192e28434961684eb2197c627067bf5a66043280b2739c96a6161343ae08b8dfe9c23e275a2da109d77e1ec0406ccdac3ba9cf2260c4dfd323fba5bdde1f7bf2ed4faa9cbc095266962cf20ea9ee948312a7df47b8c78b4d98397e25b5af35bd8e81339e75770ae23bae34d9f387cb67fbcf28a4d6baab2c10791ed3c66c6a6e3467afc8c7672050cf81ba77efaac39960abc2330d208d5c3e1450e3f6cedc86282055fbc2bee873df7500b379c104b0cf3768c6b0718572bae19096f78c7e222fdd9ff2b383ce96ac323be4761e2cd49b2cd865826f369e19680361ff2ea4d341af0615548b20f551bd21a17ebfd3330b49a605ca35f8f14f9546efccf03e8b7ba123e9e570dd5e9f85245657a807c2c194a40e0ba9fd1c3ae0c74eb72c344efdd86e016ca8e1c6a73ace0e08a429178fc425f59128ad8f5f8d66d399b56d9a2e2193d6f31251e96b9552cd00cb284474bfb2401e6e138f64ce59e94f66f61109c1e7d3ec93d939afdcc3ee8d8c247adf67d85bef2124b94bdd05e4988c55ecd341785c40800842580549cd4f44d79ca194df6504c0b35db1d39c244dc56dcd3d677ec310bb7c61a1d829d6b672ff3a</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">请输入密码查看文章</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      <categories>
+          
+          <category> 效率 </category>
+          
+          <category> Todo List </category>
+          
+          <category> Zek </category>
           
       </categories>
       
